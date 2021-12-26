@@ -1,0 +1,8 @@
+#導入API#
+numpy
+h5py
+tensorflow
+sklearn
+keras
+opencv-python
+matplotlib
